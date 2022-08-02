@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ezflash/ezFlashCLI.svg?branch=main)](https://travis-ci.org/ezflash/ezFlashCLI)
 [![Documentation Status](https://readthedocs.org/projects/ezflashcli/badge/?version=latest)](https://ezflashcli.readthedocs.io/en/latest/?badge=latest)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/ezflashcli?style=plastic)
 
 Command line tools to manage flash devices connected to the Dialog Smartbond™ device family.
 
